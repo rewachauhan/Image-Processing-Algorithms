@@ -1,3 +1,3 @@
 # Image-Processing-Algorithms
-Implementation of different image processing algorithms from scratch using Pytho
+Implementation of different image processing algorithms from scratch using Python
 
